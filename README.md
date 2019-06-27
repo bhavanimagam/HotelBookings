@@ -19,9 +19,13 @@ It will run all the tests with TAG:   @eentest
 # Running the tests from executable Jar
 
 Clone the repo
+
 Cd to executableJars
+
 Unzip execitableJars.Zip
+
 Cd to the unzipped location
+
 Run the following command
 
 java -jar hotel-bookings.jar --plugin pretty --plugin html:cucumber/html --glue com.hotelbookings.scenarios classpath:features --tags @eentest
