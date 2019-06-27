@@ -1,17 +1,18 @@
 # HotelBookings
 
-#Chrome driver factory class
+# Chrome driver factory class
 
 It is the driver util based on operating system it selects the executable and intiates the driver
 
-#HotelBookingPage
+# HotelBookingPage
 
 It is the page object where all the selectors and bookings page related element iteractions are defined
 
-#HotelBookingStepDef
+# HotelBookingStepDef
+
 It contains step definitions related to save and delete booking.
 
-#Running the tests using junitRunner
+# Running the tests using junitRunner
 To run the tests right click and run HotelBookingTestSuite.
 It will run all the tests with TAG:   @eentest
 
