@@ -11,6 +11,7 @@ It is the page object where all the selectors and bookings page related element 
 #HotelBookingStepDef
 It contains step definitions related to save and delete booking.
 
+#Running the tests using junitRunner
 To run the tests right click and run HotelBookingTestSuite.
 It will run all the tests with TAG:   @eentest
 
